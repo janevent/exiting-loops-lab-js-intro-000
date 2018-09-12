@@ -16,5 +16,6 @@ function keepGoing(array, changeValue, skipValue){
   return array.join();
 }
 
-1) loops findBy(array, findFn) finds the a value that satisfies `findFn`:
-     Error: Expected
+function findBy(array, findFn){
+  
+}
